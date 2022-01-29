@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+![Netflix](https://user-images.githubusercontent.com/55282652/151674263-d22326aa-e984-4ce3-bb92-893d28b67000.jpeg)
+
+
+
+
